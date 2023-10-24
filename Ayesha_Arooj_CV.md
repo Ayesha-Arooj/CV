@@ -7,7 +7,7 @@
 ## Education
 -------------------------------------------------------------------------------------------------------------------------------
 
-<h4 style="font-style: italic; flex: 1;text-align: left; margin: 0;">University of Education &emsp;&emsp;&emsp;&emsp; 2023 - Continue</h4>
+<h4 style="font-style: italic; flex: 1;text-align: left; margin: 0;">University of Punjab &emsp;&emsp;&emsp;&emsp; 2023 - Continue</h4>
 
 - Master's of Philosophy in Data Science
 
