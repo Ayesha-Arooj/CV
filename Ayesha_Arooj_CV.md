@@ -2,6 +2,8 @@
 
 <H3 style="text-align: center;">Email:ayeshaarooj.da@gmail.com</H3>
 
+<H3 style="text-align: center;">Portfolio:<a>[https://www.linkedin.com/in/ayesha-arooj-dataanalyst/](https://github.com/Ayesha-Arooj/)</a></H3>
+
 <H3 style="text-align: center;">Linkedin:<a>https://www.linkedin.com/in/ayesha-arooj-dataanalyst/</a></H3>
 
 ## Education
